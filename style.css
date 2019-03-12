@@ -1,0 +1,160 @@
+body {
+  max-width: 1024px;
+  width: 1020px;
+  margin: 0px;
+
+}
+header {
+  position: relative;
+  left: 8px;
+}
+h1 {
+  display: none;
+}
+h2 {
+  text-decoration: underline;
+  text-align: center;
+  color: white;
+}
+div.menu {
+  position: relative;
+  left: 267px;
+
+}
+p {
+    margin: 20px;
+}
+
+div.menu a {
+  text-decoration: none;
+  color: white;
+  vertical-align: -webkit-baseline-middle;
+}
+div.menu div {
+  height: 51px;
+  font-size: 20px;
+  vertical-align: middle;
+  text-align: center;
+  width: 256px;
+  position: relative;
+  left: 355px;  
+}
+div.contacts  {
+    background: #F36422;
+    
+  }
+div.contacts p {
+  position: relative;
+  left: 176px;
+  top: -155px;
+  width: 252px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+img {
+  position: absolute;
+  left: -275px;
+  width: 630px;
+}
+img.I-am {
+  position: relative;
+  width: 134px;
+  left: 20px;
+  border: double white;
+  border-radius: 50px 10px 50px 10px;
+}
+div.summary {
+  background: #ED1C24;
+}
+div.skills {
+  background: #E10236;
+}
+div.code {
+  background: #B90062;
+}
+div.experience {
+  background: #873E95;
+}
+div.education {
+  background: rgb(60, 112, 181);
+}
+div.english {
+  background: rgb(4, 173, 129);
+}
+div.text {
+  border-radius: 20px 20px 20px 20px;
+  width: 885px;
+  height: 222px;
+  padding: 0px;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: white;
+
+}
+ul {
+  position: relative;
+  top: 15%;
+}
+ul li a {
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+p.summary1 {
+  position: relative;
+  top: 20%;
+}
+p.code {
+  position: relative;
+  top: 20%;   
+}
+p.english {
+  position: relative;
+  top: 20%; 
+}
+footer {
+    background-color: #323232;
+    width: 885px;
+    height: 36px;
+}
+div.social-networks {
+  
+  width: 108px;
+  height: 36px;
+  position: absolute;
+  left: 777px;
+  top: 1920px;
+}
+div.facebook img {
+  width: 36px;
+  height: 36px;
+  background-image: url(../cv/assets/images/Facebook@1X.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 0px;
+}
+div.pinterest img {
+  width: 36px;
+  height: 36px;
+  background-image: url(../cv/assets/images/Pinterest@1X.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 36px;
+}
+div.linkedin img {
+  width: 36px;
+  height: 36px;
+  background-image: url(../cv/assets/images/Linkedin@1X.png);
+  background-repeat: no-repeat;
+  position: relative;
+  left: 72px;
+}
+div.join {
+  border-radius: 20px 20px 0px 0px;
+  height: 100px;
+}
+div.join p {
+  position: relative;
+  top: 0%;
+}
